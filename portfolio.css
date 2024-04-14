@@ -1,0 +1,183 @@
+body {
+    background-color:lightgreen;
+}
+ .image {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    overflow: hidden; 
+}
+.mern {
+            width: 400px;
+            height: 170px;
+           
+            transform-origin:bottom;
+            
+        }
+        .mern:hover{
+            transition: 1s;
+            transform: perspective(500px) rotateX(50deg);
+
+        }
+   
+          
+        
+ 
+        .top {
+            background-image: url(./bg.png);
+        }
+
+        .di1 {
+            width: 150px;
+            height: 100px;
+        }
+        
+        .di2 {
+            width: 220px;
+            height: 140px;
+        }
+        
+        .di3 {
+            width: 210px;
+            height: 120px;
+        }
+        .di4 {
+            width: 180px;
+            height: 139px;
+        }
+        .di5 {
+            width: 200px;
+            height: 139px;
+        }
+        .di6 {
+            width: 110px;
+            height: 100px;
+        }
+        .Freelancer {
+            font-style: italic;
+            
+           
+        }
+        .web {
+            font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+            font-size: 40px;
+       
+        }
+
+        .devops {
+            font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+            font-size: 40px;
+            
+        }
+        .heading {
+            font-size: 40px;
+            font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+            
+        }
+.cardOne {
+      width: 1200px;
+      height: 500px;
+      position:absolute;
+      left: 170px;
+      background-color: violet;
+      overflow: hidden;
+      border-radius: 50px;
+}
+ .web_png {
+    position: relative;
+    left: 150px;
+ }
+
+ .web_dev{
+    position: absolute;
+    bottom:80px;
+    left: 250px;
+ }
+
+ 
+ .web_dev1{
+    position: absolute;
+    bottom:30px;
+    left: 470px;
+ }
+ a{
+    text-decoration: none;
+ }
+ .abraham {
+    width: 250px;
+    height: 300px;
+    position: relative;
+    left: 40px;
+    top: 10px;
+    
+ }
+ .abraham_title {
+    position: relative;
+    bottom: 320px;
+    left: 100px;
+
+    
+ }
+ .abraham_content {
+    position: absolute;
+    left: 330px;
+    bottom: 250px;
+    top: 120px;
+    
+ }
+.abraham_git{
+    width:60px;
+    height: 60px;
+    position: absolute;
+    left: 320px;
+    bottom: 230px;
+    top:418px;
+}
+.git_content{
+    position: absolute;
+    bottom: 270px;
+    left:400px;
+    top: 440px;
+}
+.social{
+    position: absolute;
+    bottom: 300px;
+    left: 1000px;
+    font-size: 30px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.linkedin{
+    position: absolute;
+    bottom: 260px;
+    left: 1000px;
+}
+.twitter {
+    position: absolute;
+    bottom: 210px;
+    left: 1000px;
+}
+.github_id {
+    position: absolute;
+    bottom: 170px;
+    left: 1000px;
+}
+.link_img{
+    position: absolute;
+    bottom: 270px;
+    left: 970px;
+    height: 25px;
+
+}
+.twitt_img{
+    position: absolute;
+    bottom: 215px;
+    left: 965px;
+    height: 30px;
+}
+.git_img{
+    position: absolute;
+    bottom: 170px;
+    left: 960px;
+    height: 35px;
+    width: 40px;
+}
